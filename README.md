@@ -81,3 +81,15 @@ Difficulty: Medium
 Solution Using Map
 Check Problem Statement at GFG:
 https://practice.geeksforgeeks.org/problems/rearrange-characters/0
+
+# 14. Kth largest element in a stream (KthLargestElementInStream.java)
+Difficulty: Medium
+Solution Using Min Heap
+Check Problem Statement at GFG:
+https://practice.geeksforgeeks.org/problems/kth-largest-element-in-a-stream/0
+
+# 15. Trapping Rain Water (TrappingRainWater.java)
+Difficulty: Medium 
+Check Problem Statement at GFG:
+https://practice.geeksforgeeks.org/problems/trapping-rain-water/0
+
