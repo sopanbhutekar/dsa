@@ -75,3 +75,9 @@ https://practice.geeksforgeeks.org/problems/minimum-platforms/0
 Difficulty: Medium
 Check Problem Statement at GFG:
 https://practice.geeksforgeeks.org/problems/number-of-pairs/0/
+
+# 13. Rearrange characters (RearrangeCharacters.java)
+Difficulty: Medium 
+Solution Using Map
+Check Problem Statement at GFG:
+https://practice.geeksforgeeks.org/problems/rearrange-characters/0
