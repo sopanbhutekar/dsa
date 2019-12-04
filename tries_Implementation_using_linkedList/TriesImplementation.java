@@ -1,4 +1,4 @@
-package heap.heap_Implementation_using_linkedList;
+package heap.tries_Implementation_using_linkedList;
 
 public class TriesImplementation {
 
