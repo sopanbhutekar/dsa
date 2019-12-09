@@ -19,6 +19,11 @@ public class ImplementationOfBST {
 		tree.preOrder();
 		System.out.println("\nPost Order Traversal:");
 		tree.postOrder();
+		if(null!=tree.search(90)){
+			System.out.println("\nKey Present in Tree");
+			}else{
+				System.out.println("\nKey is Not Present in Tree");
+			}
 	}
 
 }

@@ -1,5 +1,6 @@
 package heap.BST;
 
+
 public class BinarySearchTree {
 
 	 public class Node{
@@ -73,5 +74,22 @@ public class BinarySearchTree {
 			inOrderUtil(root.right);			
 		}
 		
+	}
+	public Node search(int key){
+		return searchUtil(root, key);
+	}
+	
+	public Node searchUtil(Node root,int key){
+		if(null==root || key==root.data){
+			return root;
+		}
+		
+		if(key<root.data){
+			return searchUtil(root.left,key);
+		}else if(key>root.data){
+			return searchUtil(root.right,key);
+		}
+		
+		return root;
 	}
 }
